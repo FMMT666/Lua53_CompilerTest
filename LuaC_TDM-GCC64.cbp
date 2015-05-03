@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="TDM_GCC64" />
+		<Option title="Lua53c_TDM-GCC64" />
 		<Option pch_mode="2" />
 		<Option compiler="tdm-gcc_64_bit" />
 		<Build>
 			<Target title="Release">
-				<Option output="out/TDM_GCC64" prefix_auto="1" extension_auto="1" />
+				<Option output="out/Lua53c_TDM-GCC64" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/" />
 				<Option type="1" />
 				<Option compiler="tdm-gcc_64_bit" />
@@ -109,7 +109,7 @@
 		<Unit filename="src/ltm.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="src/luac.c">
+		<Unit filename="src/lua.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/lundump.c">

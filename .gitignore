@@ -5,4 +5,5 @@
 !src
 !obj
 !out
-!TDM_GCC64.cbp
+!Lua__TDM-GCC64.cbp
+!LuaC_TDM-GCC64.cbp
