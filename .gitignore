@@ -3,3 +3,6 @@
 !.gitignore
 !Makefile.org
 !src
+!obj
+!out
+!TDM_GCC64.cbp
